@@ -1,0 +1,59 @@
+#######################
+# iCaRL, for CIFAR100 #
+#######################
+
+# Model definition
+model: resnet32
+
+# Training setting
+num_workers: 4
+data_set: CIFAR
+eval_every: 10
+seed: 1993
+
+# Base hyperparameter
+epochs: 70
+base_epochs: 70
+batch_size: 128
+lr: 2.0
+warmup_epochs: 0
+cooldown_epochs: 0
+
+opt: sgd
+opt_eps: 0
+momentum: 0.9
+weight_decay: 0.00001
+
+sched: multistep
+decay_epochs: [49, 63]
+decay_rate: 0.2 # (gamma= 1.0 / 5.)
+
+bce_loss: True
+
+# About Continual Learning
+#rehearsal: icarl_all
+#rehearsal: icarl_last
+memory_size: 2000
+max_task: 10
+auto_kd: true
+
+# Dytox model
+dytox: False
+
+# Advanced Augmentations, here disable
+color_jitter: 0.0
+aa: none
+
+## Erasing
+reprob: 0.0
+recount: 0
+resplit: False
+
+## MixUp & CutMix
+mixup: 0.0
+cutmix: 0.0
+
+
+#TO-DO
+#data augmentation -> transform.RandomCrop으로 해결, 똑같진 않음.
+#resnet 32 -> classifier의 output을 처음부터 100? 10개씩 늘려??, 마지막 768?

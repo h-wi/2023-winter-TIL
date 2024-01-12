@@ -12,11 +12,11 @@
 4. Image Augmentation 기법 중 하나인 CutMix 논문 정리 및 PPT 파일 제작
 
 ## 개념 정리
-* [About Continual Learning](https://github.com/h-wi/2023-winter-TIL/tree/main/week1/About_CL.md)
+* [About Continual Learning](https://github.com/h-wi/2023-winter-TIL/tree/main/week1/About_CL.pdf)
 * [iCaRL Reproducing based on DyTox Github code](https://github.com/h-wi/2023-winter-TIL/tree/main/week1/iCaRL-Reprod-0.52)
 
 ## 논문 정리
-* iCaRL : [iCaRL: Incremental Classifier and Representation Learning](https://github.com/h-wi/2023-winter-TIL/tree/main/week1/iCaRL_정리.md)
-* LwF : [LwF: Learning Without Forgetting](https://github.com/h-wi/2023-winter-TIL/tree/main/week1/LwF_정리.md)
-* CutMix : [CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features](https://github.com/h-wi/2023-winter-TIL/tree/main/week1/CutMix_정리.md)
+* iCaRL : [iCaRL: Incremental Classifier and Representation Learning](https://github.com/h-wi/2023-winter-TIL/tree/main/week1/iCaRL_정리.pdf)
+* LwF : [LwF: Learning Without Forgetting](https://github.com/h-wi/2023-winter-TIL/tree/main/week1/LwF_정리.pdf)
+* CutMix : [CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features](https://github.com/h-wi/2023-winter-TIL/tree/main/week1/CutMix_정리.pdf)
 
