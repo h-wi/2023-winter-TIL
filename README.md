@@ -17,6 +17,6 @@
 
 ## 논문 정리
 * iCaRL : [iCaRL: Incremental Classifier and Representation Learning](https://github.com/h-wi/2023-winter-TIL/tree/main/week1/iCaRL_정리.md)
-* LwF :[LwF: Learning Without Forgetting](https://github.com/h-wi/2023-winter-TIL/tree/main/week1/LwF_정리.md)
+* LwF : [LwF: Learning Without Forgetting](https://github.com/h-wi/2023-winter-TIL/tree/main/week1/LwF_정리.md)
 * CutMix : [CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features](https://github.com/h-wi/2023-winter-TIL/tree/main/week1/CutMix_정리.md)
 
