@@ -13,7 +13,7 @@
 
 ## 개념 정리
 * [About Continual Learning](https://github.com/h-wi/2023-winter-TIL/tree/main/week1/About_CL.pdf)
-* [iCaRL Reproducing based on DyTox Github code](https://github.com/h-wi/2023-winter-TIL/tree/main/week1/iCaRL-Reprod-0.52)
+* [iCaRL Reproducing based on DyTox Github code](https://github.com/h-wi/2023-winter-TIL/tree/main/week1/iCaRL-Reprod_0.52)
 
 ## 논문 정리
 * iCaRL : [iCaRL: Incremental Classifier and Representation Learning](https://github.com/h-wi/2023-winter-TIL/tree/main/week1/iCaRL_정리.pdf)
