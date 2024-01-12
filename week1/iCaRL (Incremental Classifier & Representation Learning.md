@@ -32,7 +32,7 @@ t는 여태까지 관찰한 클래스의 수, 따라서 모델의 아웃풋은 y
 - 여태까지 본 각 클래스의 prototype vector (µ1, . . . , µ_t로 표기)는 클래스의 모든 exemplar들에 대한 average feature vector
 - 새로운 이미지 x에 대한 클래스 라벨을 만들 때는 가장 유사한 프로토타입 벡터와 x의 feature vector 간의 유클리디안 디스턴스가 최소가 되는 값으로 할당
 
-![Untitled](iCaRL%20(Incremental%20Classifier%20&%20Representation%20Lea%2001d927b15f1a4f1c8fc9566ae18bb266/Untitled.png)
+![Alt text](Untitled.png)
 
 - 기존 이미지 분류는 웨이트 벡터와 피쳐맵 파이를 곱하는 방식, 이는 decoupled 되어있다가 소프트맥스 전에 각각 곱해지는 방식. 이는 class-incremental 환경에서는 문제가 될 수 있음. **피쳐맵이 바뀔 때마다 웨이트 벡터들도 업데이트 반드시 되어야 함**
 - 하지만 이 means-of-exemplars 방법은 다르다. 만들어진 feature representation이 바뀔 때마다 마지막에 곱해질 각 클래스의 prototype vector가 자동으로 바뀐다.
