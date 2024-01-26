@@ -32,3 +32,18 @@
 * Compact Convolutional Transformer(CCT) : [Compact Convolutional Transformer(CCT)](https://github.com/h-wi/2023-winter-TIL/tree/main/week2/CCT_정리.pdf)
 * ResNet strikes back : [ResNet strikes back: An improved training procedure in timm](https://github.com/h-wi/2023-winter-TIL/tree/main/week2/ResNet-strikes-back_정리.pdf)
 * ResNet strikes back PPT 파일 : [ResNet strikes back 개인 PPT파일 제작](https://github.com/h-wi/2023-winter-TIL/tree/main/week2/ResNetStrikesBack_발표.pdf)
+
+# 3주차 활동 정리
+
+1. Pytorch를 기반으로 Multi-GPU 사용할 수 있게 하는 Distributed Data Parallel 코드 구현
+2. Self-Attention에 대한 개념 정리
+3. Self-Attention의 응용 개념인 Window Self-Attention과 KNN Self-Attention 구현하기
+4. Object Detection의 Fundamental 논문인 Faster R-CNN 정리를 위한 PPT 파일 제작
+
+
+## Implementation of Window Self Attention based on Compact Convolutional Transofomer
+
+
+## Implementation of Distributed Data Parallel based on CutMix Baseline
+
+## 논문 정리
