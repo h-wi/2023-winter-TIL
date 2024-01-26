@@ -10,10 +10,10 @@
 2. [DyTox Github Code](https://github.com/arthurdouillard/dytox)을 기반으로 iCaRL Reproduce 코드 작성
 3. Image Augmentation 기법 중 하나인 CutMix 논문 정리 및 PPT 파일 제작
 
-## Reprocude iCaRL
+### Reprocude iCaRL
 * [iCaRL Reproducing based on DyTox Github code](https://github.com/h-wi/2023-winter-TIL/tree/main/week1/iCaRL-Reprod_0.52)
 
-## 논문 정리
+### 논문 정리
 * VGG & AlexNet : [VGG & AlexNet](https://github.com/h-wi/2023-winter-TIL/tree/main/week1/VGG_정리.pdf)
 * CutMix : [CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features](https://github.com/h-wi/2023-winter-TIL/tree/main/week1/CutMix_정리.pdf)
 * CutMix PPT 파일 : [CutMix 개인 PPT 파일 제작](https://github.com/h-wi/2023-winter-TIL/tree/main/week1/CutMix_발표자료.pdf)
@@ -24,11 +24,11 @@
 2. Compact Convolutional Transformer (CCT) 논문 정리
 3. ResNet strikes back 논문 정리 및 PPT 파일 제작
 
-## Implementation of Self-Attention
+### Implementation of Self-Attention
 
 * [Re-implement Self-Attention Mechanism in transformer](https://github.com/h-wi/2023-winter-TIL/tree/main/week2/attention.py)
 
-## 논문 정리
+### 논문 정리
 * Compact Convolutional Transformer(CCT) : [Compact Convolutional Transformer(CCT)](https://github.com/h-wi/2023-winter-TIL/tree/main/week2/CCT_정리.pdf)
 * ResNet strikes back : [ResNet strikes back: An improved training procedure in timm](https://github.com/h-wi/2023-winter-TIL/tree/main/week2/ResNet-strikes-back_정리.pdf)
 * ResNet strikes back PPT 파일 : [ResNet strikes back 개인 PPT파일 제작](https://github.com/h-wi/2023-winter-TIL/tree/main/week2/ResNetStrikesBack_발표.pdf)
@@ -41,9 +41,18 @@
 4. Object Detection의 Fundamental 논문인 Faster R-CNN 정리를 위한 PPT 파일 제작
 
 
-## Implementation of Window Self Attention based on Compact Convolutional Transofomer
+### Implementation of Window Self Attention based on CCT
 
+* [Re-implement Self-Attention Mechanism based on Compact Convolutional Transformer](https://github.com/h-wi/2023-winter-TIL/blob/main/week3/implementation-wsa-ksa.py)
 
-## Implementation of Distributed Data Parallel based on CutMix Baseline
+### Implementation of Distributed Data Parallel based on CutMix Baseline
 
-## 논문 정리
+* [Implement Distributed Data Parallel based on CutMix Baseline](https://github.com/h-wi/2023-winter-TIL/tree/main/week3/implementation-ddp)
+
+### 개념 정리
+
+* [What is Self-Attention and Query, Key, Value?](https://github.com/h-wi/2023-winter-TIL/blob/main/week3/self-attention.pdf)
+
+### 논문 정리
+
+* Faster R-CNN PPT 파일 : [Faster R-CNN 개인 PPT파일 제작](https://github.com/h-wi/2023-winter-TIL/blob/main/week3/Faster_R-CNN_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
