@@ -60,18 +60,21 @@
 # 4주차 활동 정리
 
 1. MMDetection Framework를 통해 Face Mask Dataset format annotation converting하기
-2. Faster-RCNN Backbone 모델을 변형해보기
 3. YOLOv8 모델 Face Mask Dataset 기반으로 학습해보기
 4. 딥러닝 모델 예측 분석기법 중 하나인 CAM, Grad-CAM 정리 및 PPT 파일 제작
 
 ### Object Detection Exercise
 
-### Implement Backbone network of Faster R-CNN 
+* [Convet Facemask (.xml) Dataset format to COCO format](https://github.com/h-wi/2023-winter-TIL/blob/main/week4/convert.py)
+
+* [Custom Object Detection Using MMDetection Framework](https://github.com/h-wi/2023-winter-TIL/blob/main/week4/mmdetection/my_custom_config.py)
+
+* [Custom Object Detection Using YOLOv8 Framework](https://github.com/h-wi/2023-winter-TIL/blob/main/week4/yolo8s.ipynb)
 
 ### 개념 정리
 
-* [CAM, Grad-CAM 비교 분석 및 정리](https://github.com/h-wi/2023-winter-TIL/blob/main/week4/self-attention.pdf)
+* [CAM, Grad-CAM 비교 분석 및 정리](https://github.com/h-wi/2023-winter-TIL/blob/main/week4/Grad-CAM.pdf)
 
 ### 논문 정리
 
-* Grad-CAM PPT 파일 : [Grad-CAM 개인 PPT파일 제작](https://github.com/h-wi/2023-winter-TIL/blob/main/week4/Faster_R-CNN_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
+* Grad-CAM PPT 파일 : [Grad-CAM 개인 PPT파일 제작](https://github.com/h-wi/2023-winter-TIL/blob/main/week4/GradCAM_presentation.pdf)
