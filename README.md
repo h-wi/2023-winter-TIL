@@ -84,6 +84,12 @@
 1. Robust Fine-tuning of Zero-shot model 논문 정리 및 PPT 파일 제작
 2. 딥러닝 분석 프레임 워크 직접 활용하기
 
+### Deep learning analysis exercise
+
+* [Deep learning analysis results](https://github.com/h-wi/2023-winter-TIL/blob/main/week5)
+
 ### 논문 정리
 
 * [Robust fine-tuning of Zero-shot models](https://github.com/h-wi/2023-winter-TIL/blob/main/week5/Robust-fine-tuning-of-zero-shot-models.pdf)
+
+* WiSE-FT PPT 파일 : [WiSE-FT 개인 PPT파일 제작](https://github.com/h-wi/2023-winter-TIL/blob/main/week5/WiSE-FT_presentation.pdf)
